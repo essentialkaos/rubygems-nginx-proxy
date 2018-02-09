@@ -1,5 +1,5 @@
 # rubygems-nginx-proxy
-Nginx configuration files for Rubygems caching proxy. This config used for [gems.kaos.st](https://gems.kaos.st) service.
+Nginx configuration files for Rubygems caching proxy. This config used for [EK Rubygems Proxy](https://gems.kaos.st) service.
 
 ## Usage
 
