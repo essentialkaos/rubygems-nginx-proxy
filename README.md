@@ -1,7 +1,7 @@
-# `rubygems-nginx-proxy` [![License](https://gh.kaos.st/ekol.svg)](https://essentialkaos.com/ekol)
+## `rubygems-nginx-proxy` [![License](https://gh.kaos.st/ekol.svg)](https://essentialkaos.com/ekol)
 Nginx configuration files for Rubygems caching proxy. This config used for [EK RubyGems Proxy](https://gems.kaos.st) service.
 
-## Usage
+### Usage
 
 If you use [bundler](http://bundler.io), add this line on top of your Gemfile:
 ```ruby
@@ -14,7 +14,7 @@ Also, you can use this proxy for downloading gems with `gem` command. For exampl
 gem install bundler --source https://gems.kaos.st
 ```
 
-## Status
+### Status
 
 Current status of EK RubyGems Proxy you can find on our [status page](http://status.gems.kaos.st).
 
