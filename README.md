@@ -1,4 +1,4 @@
-## `rubygems-nginx-proxy` [![License](https://gh.kaos.st/ekol.svg)](https://essentialkaos.com/ekol)
+## `rubygems-nginx-proxy` [![License](https://gh.kaos.st/apache2.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 Nginx configuration files for Rubygems caching proxy. This config used for [EK RubyGems Proxy](https://gems.kaos.st) service.
 
 ### Usage
